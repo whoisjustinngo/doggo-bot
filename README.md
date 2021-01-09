@@ -1,3 +1,5 @@
+a collaborative project between github users "hendricksgin" and "jingweisim"
+
 # doggo-bot
 Hack&amp;Roll solution 2021. Dog breed classifier on telegram bot.
 
